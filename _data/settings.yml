@@ -1,11 +1,13 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
+title: The Measuring Type
+description: I have made this blog to explore the way typography is used in diet
+  products and programs as a method of influencing consumers to buy into the
+  diet industry and diet culture, as a whole.
+header_text: ""
 footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
+header_feature_image: ""
+bannerheight: 20vmax
+logo: ../uploads/the-measuring-type.png
+favicon: ../uploads/the-measuring-type.png
 gridlayout: false
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
-upzoom: true
 fixednavbar: false
+upzoom: true
