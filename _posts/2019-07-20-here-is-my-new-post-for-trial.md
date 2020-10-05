@@ -1,48 +1,49 @@
 ---
 layout: post
-title: Here is a blog post sample
-date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
-caption: Cobbles
+title: WW Dot
+date: 2020-10-02T16:50:00.000Z
+header_feature_image: ../uploads/victor-freitas-yuv-iwbyvrq-unsplash.jpg
+caption: ""
+comments: true
 ---
+<!--StartFragment-->
 
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
+Ask anyone, your aunt, your uncle, your friend or distant cousin...it seems that everyone knows someone who has been to *WeightWatchers*. But what is it that makes them such a popular platform and their services so immediately recognisable? Well, typography has a lot to do with it.
+
+
+
+<!--EndFragment-->
 
 The `header_feature_image` is optional and you should enter the path to it in the metadata above.
 
 > Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
 
+![](../uploads/ww-logo-json-opengraph.jpg)
 
-![Here is a book](../uploads/pages.jpg)
+<!--StartFragment-->
 
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
+Without even using words, WeightWatchers is immediately identifiable through their striking and simple logo: blue background with a white circle and two W’s in the middle. It sounds simple enough, but how has it become so ingrained into our minds that this is a weight loss company? 
 
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
+It starts with colour: It is a deep blue, hex code #000585, a commanding and eye catching colour that stands in sharp contrast against the pure white, which draws the consumer’s attention to the centre, the main identifier of the product. The use of a dark blue could be used as a method of inclusivity, a way to allude to the idea of men also being included in weight loss products, instead of only targeting women, which, typically, is what the diet industry does, or it could just simply be a marketing strategy, using bold colours in order to be seen from far away.
 
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
+However, you cannot convert people by just use of colour, your text has to stand out too; which is why they changed their logo in 2018 from Font Typeface (left) to National 2 (right). While their previous logo had softer, lower case text, their new logo stands out vividly with the two capital W’s. This also reflects the notoriety of the brand, since they no longer need to put their whole company name, just their initials, meaning their reputation speaks for itself.
 
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
+
+
+<!--EndFragment-->
 
 ## Here is a an image
 
-![Wooden Type](../uploads/log.jpg)
+![Wooden Type](../uploads/weightwatchers_2018_logo_before_after.png)
 
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
+<!--StartFragment-->
 
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
+Their new logo is much more bold in comparison to the somewhat clinical feel of their previous one. Their use of colour, for instance, is much more appealing to the eye, as black and white rarely captures the attention of consumers as much as a striking colour and stand out lettering.
 
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
 
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
 
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
+The new logo makes for an easy way of identifying their products on the shelves or their classes on a building. In this way, it makes the consumers feel as though they are a part of something. Perhaps it also removes the sense of it being a diet plan, and instead simply a brand of food, or a club, removing the potential embarrassment of saying that you are trying to lose weight, instead saying: “I am a part of WW”. All these factors contribute to the hypnotic effect of Weightwatchers, and the sense of community consumers feel when they buy into their brand, and diet culture, altogether.
 
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+
+
+<!--EndFragment-->
