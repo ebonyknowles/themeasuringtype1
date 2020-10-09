@@ -2,7 +2,7 @@
 layout: post
 title: Wellness That Works?
 date: 2020-10-09T09:18:58.379Z
-header_feature_image: ../uploads/nizzah-khusnunnisa-ehbbgerdspc-unsplash-1-.jpg
+header_feature_image: ../uploads/bill-oxford-ailahldwk2g-unsplash.jpg
 caption: WeightWatchers is a world renowned brand, but how have they established
   themselves and differentiated from the vast competition in the diet industry?
 comments: true
