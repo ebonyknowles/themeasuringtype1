@@ -4,10 +4,14 @@ description: I have made this blog to explore the way typography is used in diet
   diet industry and diet culture, as a whole.
 header_text: The Measuring Type
 footer_text: Copyright 2020 Ebony Knowles
-header_feature_image: ../uploads/nizzah-khusnunnisa-ehbbgerdspc-unsplash-1-.jpg
+header_feature_image: ../uploads/markus-winkler-htshi76gldm-unsplash.jpg
 bannerheight: 10vmax
 logo: ../uploads/the-measuring-type.png
 favicon: ../uploads/the-measuring-type.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
+items:
+  - name: About Me
+    siteurl: /aboutme/
+    tab: false
