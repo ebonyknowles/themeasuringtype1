@@ -2,7 +2,7 @@
 layout: post
 title: How To Win Customers and Influence Women
 date: 2020-11-16T20:11:04.405Z
-header_feature_image: ../uploads/pink-measuring-tape-♥.jpg
+header_feature_image: ../uploads/pink-and-cream-gingham-checked-plaid-satin-ribbon.jpg
 comments: true
 ---
 *Flat Tummy Co.*, a company infamous for Kim Kardashian's promotion of their hunger-restricting lollipops, is perhaps one of the clearest examples of what I spoke about in my last post: using their typography to target young women.
