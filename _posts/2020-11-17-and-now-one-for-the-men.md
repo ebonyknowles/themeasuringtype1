@@ -1,6 +1,6 @@
 ---
 layout: post
-title: And now, one for the men
+title: And Now, One For The Men
 date: 2020-11-17T18:20:58.162Z
 header_feature_image: ../uploads/tape-measure-blue-ribbon.jpg
 comments: true
