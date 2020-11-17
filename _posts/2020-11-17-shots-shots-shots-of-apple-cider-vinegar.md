@@ -2,7 +2,7 @@
 layout: post
 title: Shots Shots Shots...Of Apple Cider Vinegar
 date: 2020-11-17T18:32:26.472Z
-header_feature_image: ../uploads/diet-concept-with-green-apple-measuring-tape-line-pink-background_138070-33.jpg
+header_feature_image: ../uploads/v2.jpg
 comments: true
 ---
 If you have any social media account, particularly Instagram or Facebook, you may have seen people advocating for the consumption of apple cider vinegar to aid weight loss. Yes, a simple salad dressing is one of the diet industry’s new crazes, favoured and endorsed by celebrities such as Victoria Beckham and Katy Perry. But how did an ingredient turn into a health fad? You guessed it...typography played a significant role.
