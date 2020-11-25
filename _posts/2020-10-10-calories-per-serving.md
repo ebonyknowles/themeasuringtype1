@@ -10,7 +10,7 @@ Whether you realise it or not, the diet industry directly impacts our day-to-day
 
 From the late 1960s, pre-packaged foods started to become more widely manufactured and available. Therefore, since people were no longer home cooking as often, they then became curious as to the content of the food they were eating. The food industry soon became required by law to state the calorie, fat, saturated fat, carbohydrates and sodium content of their products on their packaging.
 
-![highspeedtraining.com](../uploads/nutritional-label-1-k.jpg)
+![highspeedtraining.com](../uploads/nig.png)
 
 In the United Kingdom, we follow the Food Information Regulations made by the European Union’s regulation 1169 (2011) which acts as a guide to font size and labelling.
 
